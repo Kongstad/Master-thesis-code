@@ -18,4 +18,5 @@ Throughout this process more than 30 different scripts where created to produce 
 
 Pip Freeze file for module control is listed in requirements.txt
 
+#### Note: Downloading these files and running the script will not work without the geochemical data set. However, as this data set is guarded by a NDA to the company that owns the data, I am not at liberty to provide it here.
 
