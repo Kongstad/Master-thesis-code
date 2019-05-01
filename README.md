@@ -1,5 +1,6 @@
 # Repository regarding Master Thesis
-Github containing python code written as a part of my master thesis pipeline. 
+Github containing python code written as a part of my master thesis pipeline.
+This is a small demonstration.
 
 ### There are 4 jupyter files indicative of the process from obtaining satellite imagery to producing a training result through the VGG16 network.
 
