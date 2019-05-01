@@ -1,4 +1,4 @@
-# Master Thesis on detecting chemical compositions through remote sensing and machine learning.
+# PREDICTING CHEMICAL COMPOSITIONS IN GREENLAND WITH REMOTE SENSING DATA APPLICATION AND MACHINE LEARNING
 This Github repository contains python code written as a part of my master thesis pipeline.
 This is a small demonstration.
 
