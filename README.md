@@ -9,9 +9,9 @@ Throughout this process more than 30 different scripts where created to produce 
 
 [2. Slicing image patches.](https://github.com/Kongstad/mt/blob/master/notebooks/S2_slice_patches_categorical.ipynb)
 
-  [2.1 db_import_sp.]
+  [2.1 db_import_sp.](https://github.com/Kongstad/mt/blob/master/notebooks/db_import_sp.ipynb)
   
-3. VGG16 model and results.
+[3. VGG16 model and results.](https://github.com/Kongstad/mt/blob/master/notebooks/vgg16_cnn.ipynb)
 
 
 
