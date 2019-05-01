@@ -1,5 +1,5 @@
-# Repository regarding Master Thesis
-Github containing python code written as a part of my master thesis pipeline.
+# Master Thesis on detecting chemical compositions through remote sensing and machine learning.
+This Github repository contains python code written as a part of my master thesis pipeline.
 This is a small demonstration.
 
 ### There are 4 jupyter files indicative of the process from obtaining satellite imagery to producing a training result through the VGG16 network.
